@@ -1,0 +1,122 @@
+table {
+    width: 100%;
+}
+
+.post_form {
+    display: none;
+}
+
+/* .post_form_mentors {
+    display: none;
+}
+*/
+.active {
+    display: block !important;
+    border: 1px solid;
+    border-radius: 8px;
+}
+
+
+table input {
+    color: black;
+    background-color: transparent;
+    border: none;
+}
+
+/*  */
+
+
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.post_forms {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.post_form {
+    display: none;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.post_form label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.post_form input[type="text"] {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+
+.post_form button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.post_form button:hover {
+    background-color: #0056b3;
+}
+
+.mentorsTable {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.mentorsTable th,
+.mentorsTable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.mentorsTable th {
+    background-color: #f2f2f2;
+}
+
+.mentorsTable tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.editBtn {
+    padding: 6px 10px;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.editBtn:hover {
+    background-color: #218838;
+}
+
+.deleteBtn {
+    padding: 6px 10px;
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.deleteBtn:hover {
+    background-color: #c82333;
+} */
